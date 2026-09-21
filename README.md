@@ -38,14 +38,14 @@ When cleaning the dataset to get the reviews, we had to:
 - Germany shows the highest level of dissatisfaction
 - Both the average star rating and sentiment score for Germany are significantly lower than all   other countries.  
 - This suggests that German users may be experiencing more issues or expressing stronger frustration with the app during this period.
-  ![Rating Distribution Chart](<Data Programming - Instagram(2).png>)
-  ![Rating Distribution Chart](<Data Programming - Instagram(3).png>)
+![Rating Distribution Chart](<Data Programming - Instagram (2).png>)
+![Rating Distribution Chart](<Data Programming - Instagram (3).png>)
   
 ## Rating vs Sentiment Heatmap 
 - 1- star reviews contain both negative and positive wording 
 - 5- star reviews are strongly positive 
 - Shows that sentiment analysis is needed beyond star ratings
-   ![Rating Distribution Chart](<Data Programming - Instagram(4).png>)
+![Rating Distribution Chart](<Data Programming - Instagram (4).png>)
 
 ## Limitations
 
