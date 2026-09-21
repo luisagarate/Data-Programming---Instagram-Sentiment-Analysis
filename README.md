@@ -32,6 +32,7 @@ When cleaning the dataset to get the reviews, we had to:
 
 ## Rating Distribution Chart
 - We can see that positive and negative reviews are relatively close (196 negative and 185 positive). There is 119 reviews classified as neutral, indicating a mix of information or emotionally balanced comments
+ ![Rating Distribution Chart](<Data Programming - Instagram.png>)
 
 ## Country Analysis 
 - Germany shows the highest level of dissatisfaction
