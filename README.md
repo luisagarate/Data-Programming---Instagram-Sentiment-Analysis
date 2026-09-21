@@ -65,3 +65,6 @@ optimize feature rollouts
 - Prioritize fixing bugs and improving stability 
 - Improve account recovery and login systems 
 
+Note:
+
+- This project was a group effort by Luisa Garate, Naomi Hossain, Vivi ( Xinyi) He, Wayne (Weinou) Jin, & Tysean Haigood
